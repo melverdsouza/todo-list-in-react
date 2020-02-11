@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.each-task {
+  display: flex;
+}
+
+.checkbox {
+  margin: 3%;
+}
+
+.delete-button {
+  margin-top: 2.5%;
+  margin-left: 3%;
+  height: 20px;
+}
